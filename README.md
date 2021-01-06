@@ -7,7 +7,7 @@
 Arie Cattan<br>
 Eyal Dayan<br>
 Reut Asraf<br>
-Eyal Klein<br>
+Eyal Weiss<br>
 
 ### About
 
