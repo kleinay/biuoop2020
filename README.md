@@ -1,13 +1,13 @@
-## Introduction to Object Oriented Programming 2021
+## Introduction to Object Oriented Programming 2020
 ### Bar Ilan University
 
 **Instructor**: Dr. Yael Amsterdamer
 
 **TAs**:<br> 
 Arie Cattan<br>
-Eyal Dayan<br>
-Reut Asraf<br>
-Eyal Weiss<br>
+Ayal Klein<br>
+Yoav Gilor<br>
+Ariel Vetzler<br>
 
 ### About
 
